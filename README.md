@@ -1,4 +1,4 @@
-# Breakout Game Project
+# Breakout
 
 ## Introduction
 <div style="width: 1000px; height 600px;"><img src="https://github.com/edwarddemy/GameProjects/blob/main/4.PNG?raw=true" width="15%" height="15%" align="right"></div>
